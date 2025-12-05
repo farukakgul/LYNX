@@ -1,0 +1,12 @@
+torch
+transformers>=4.43.0
+datasets>=2.19.0
+numpy
+tqdm
+scikit-learn
+sympy
+
+# Optional: enable vLLM-based dataset builder.
+# Comment this line out if you do not plan to use vLLM.
+vllm>=0.4.0
+

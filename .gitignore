@@ -1,0 +1,23 @@
+# Python cache / artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Local virtual environments
+venv/
+lynx-env/
+.venv/
+
+# Large experiment outputs (do not commit)
+outputs/
+
+# Local scratch or private scripts
+no-push/
+
+# Logs and temporary files
+*.log
+*.tmp
+
