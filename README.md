@@ -339,7 +339,7 @@ If you find LYNX useful, please cite the accompanying paper:
 ```bibtex
 @inproceedings{akgul2025lynx,
   title   = {LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning},
-  author  = {Akg{\"u}l, {\"O}mer Faruk and Kalayc{\i}, Yusuf Hakan and Kannan, Rajgopal and Welleck, Sean and Prasanna, Viktor},
+  author  = {Akg{\"u}l, {\"O}mer Faruk and Kalayc{\i}, Yusuf Hakan and Kannan, Rajgopal and Neiswanger, Willie and Prasanna, Viktor},
   booktitle = {arxiv_id},
   year    = {2025}
 }
