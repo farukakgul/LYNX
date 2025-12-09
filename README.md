@@ -337,10 +337,13 @@ To apply LYNX to off‑policy DEER generations (e.g., for AIME / AMC / GSM8K):
 If you find LYNX useful, please cite the accompanying paper:
 
 ```bibtex
-@inproceedings{akgul2025lynx,
-  title   = {LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning},
-  author  = {Akg{\"u}l, {\"O}mer Faruk and Kalayc{\i}, Yusuf Hakan and Kannan, Rajgopal and Neiswanger, Willie and Prasanna, Viktor},
-  booktitle = {arxiv_id},
-  year    = {2025}
+@misc{akgül2025lynxlearningdynamicexits,
+      title={LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning}, 
+      author={Ömer Faruk Akgül and Yusuf Hakan Kalaycı and Rajgopal Kannan and Willie Neiswanger and Viktor Prasanna},
+      year={2025},
+      eprint={2512.05325},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.05325}, 
 }
 ```
