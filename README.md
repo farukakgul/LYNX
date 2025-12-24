@@ -332,7 +332,7 @@ To apply LYNX to off‑policy DEER generations (e.g., for AIME / AMC / GSM8K):
 
 ---
 
-## 8. Citation
+## 7. Citation
 
 If you find LYNX useful, please cite the accompanying paper:
 
