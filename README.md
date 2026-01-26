@@ -329,21 +329,3 @@ To apply LYNX to off‑policy DEER generations (e.g., for AIME / AMC / GSM8K):
    ```
 
 `eval_on_deer_rollouts.py` writes both LYNX metrics (`early_exit_metrics.json`) and a DEER‑compatible JSONL (`our_early_exit_deer_format.jsonl`) that you can feed into DEER’s `check.py` / `check_ours.py`.
-
----
-
-## 7. Citation
-
-If you find LYNX useful, please cite the accompanying paper:
-
-```bibtex
-@misc{akgül2025lynxlearningdynamicexits,
-      title={LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning}, 
-      author={Ömer Faruk Akgül and Yusuf Hakan Kalaycı and Rajgopal Kannan and Willie Neiswanger and Viktor Prasanna},
-      year={2025},
-      eprint={2512.05325},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2512.05325}, 
-}
-```
